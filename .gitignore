@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs
+/AuthJWT.Model/obj
+/AuthJWT.Service/obj
+/AuthJWT.Tests/bin
+/AuthJWT.Tests/obj
+/AuthJWT.WebAPI/obj
+/AuthJWT.WebAPI/bin
